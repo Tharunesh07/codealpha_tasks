@@ -17,4 +17,6 @@ To request access to the website/server.
 re mod:
 To re.get to find the regex pattern from the mail(txt file here)
 beautifulsoup form bs4 mod:
-To parse the datas (title) of the webpage 
+To parse the datas (title) of the webpage
+if __main__ == __name__:
+under this I put a choice for users to navigate to either of these modules 
